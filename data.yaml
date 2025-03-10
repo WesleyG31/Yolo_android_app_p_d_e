@@ -1,0 +1,13 @@
+train: C:\Todos mis documentos\Yolo\Project_2_Pik_Dra_Eve\data\train
+val: C:\Todos mis documentos\Yolo\Project_2_Pik_Dra_Eve\data\valid
+test: 
+
+nc: 3
+names: ['dragonite', 'eevee', 'pikachu']
+
+roboflow:
+  workspace: wesley-zcgda
+  project: pikachu-dragonite-eevee
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wesley-zcgda/pikachu-dragonite-eevee/dataset/1
